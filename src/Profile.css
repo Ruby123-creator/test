@@ -1,0 +1,20 @@
+
+.profile{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    row-gap: 120px;
+}
+.img{
+    border: 1px solid grey;
+    border-radius: 10px;
+    padding: 20px;
+    background-color: salmon;
+}
+
+
+.data p{
+    font-size: 20px;
+    font-weight: 800;
+}
+
